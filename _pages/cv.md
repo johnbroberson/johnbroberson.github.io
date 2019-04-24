@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Public Policy, University of North Carolina at Chapel Hill, 2019
-  * With Honors, thesis: "News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election"
-  * With Highest Distinction
+  * With Honors and Highest Distinction
   * Phi Beta Kappa
   * Minors in *Philosophy, Politics, & Economics* and *Social & Economic Justice*
   * MacDonald Community Service Fellow
