@@ -11,43 +11,71 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Public Policy, University of North Carolina at Chapel Hill, 2019
+  * With Honors, thesis: "News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election"
+  * With Highest Distinction
+  * Phi Beta Kappa
+  * Minors in *Philosophy, Politics, & Economics* and *Social & Economic Justice*
+  * MacDonald Community Service Fellow
+  * Buckley Public Service Scholar
+* (HS) North Carolina School of Science and Mathematics
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Finance and Compliance Associate, North Carolina Democratic Party
+  * May 2017 - December 2018
+  * First-ever salaried employee while still an undergraduate (Summer '18)
+  * **Data and Research:** built targeted fundraising lists using vendor and NCDP scores; used the voter file (Votebuilder), NGP, BSD, and ActBlue for record-keeping; used Excel and WhoopDeDupe (VF-matching program) to manipulate data between databases and online sources
+  * **Other Duties:** managed expenditures and receipts, regularly assisted in both federal and state campaign finance report reconciliation, wrote and consulted on external communications, planned party events, designed branded documents, event logos, social media graphics
+  * **Management:** interviewed, taught, and supervised two interns each semester and summer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* Honors Thesis, UNC-CH Department of Public Policy
+  * *News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election*
+  * August 2018 - April 2019
+  * **Data:** 2016 CCES Common Content (survey data, unweighted n = 64,600)
+  * **Program Used:** Stata (svy*, factor/rotate, margins, eststo/esttab, coefplot), R (ggplots, mapping)
+  * **Methods:** exploratory factor analysis, logit & fractional logit regressions, margins
+  
+* [Term Project, UNC-CH Graduate School of Information & Library Science 625](https://johnbroberson.github.io/inls625project/)
+  * *Using Machine Learning Techniques to Predict the Fates of Bills from the 112th - 115th Congresses*
+  * Spring 2019
+  * **Data:** floor speech content, roll-call vote histories, district-level Census data from AFF
+  * **Programs/Packages Used:** Python (pandas, , R, KNIME
+  * **Methods:** web scraping, natural language text processing, API requests, multiple supervised machine learning model sets
+  
+* Research Assistant, UNC-CH Department of Sociology
+  * Lab/Project: "Protest in 45's First 100 Days"
+  * Spring 2017
+  * Duties: news story research, sorting, and coding into database
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistics Programs:
+  * Stata
+  * R
+* Programming Languages:
+  * Python 
+  * HTML (enough to scrape it)
+* Data Mining Programs:
+  * KNIME
+  * Weka 
+* Adobe Products:
+  * Illustrator
+  * Photoshop
+  * Audition
+  * (Looking for a good reason to learn InDesign)
+* Languages:
+  * German - CEFRL B2 "Upper Intermediate", listen to native 6 o'clock news, daily
+  * Spanish - took from 2nd - 11th grades, can still understand most written text
+  * Basic American Sign Language
+* Excel:
+  * PivotTables
+  * VLOOKUP & Index/Match
+  * PivotTables
+  * Mail-merging
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
