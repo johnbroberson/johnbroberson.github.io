@@ -93,7 +93,7 @@ author_profile: true
 			</div> <!-- cd-timeline__block -->
 		</div>
 	</section> <!-- cd-timeline -->
-  <script src="assets/js/main.js"></script>
+  <script src="assets/js/resume_main.js"></script>
 </body>
 </html>
 
