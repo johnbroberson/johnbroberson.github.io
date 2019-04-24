@@ -18,7 +18,7 @@ author_profile: true
 					<img src="assets/img/cd-icon-picture.svg" alt="Picture">
 				</div> <!-- cd-timeline__img -->
 				<div class="cd-timeline__content text-component">
-					<h2>Title of section 1</h2>
+					<h2>Title of section 1 CHANGED</h2>
 					<p class="text--subtle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
 	  <div class="flex flex--space-between flex--center-y">
 	    <span class="cd-timeline__date">Jan 14</span>
