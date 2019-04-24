@@ -266,5 +266,51 @@ it: &DEFAULT_IT
 it-IT:
   <<: *DEFAULT_IT
 
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  page                       : "Seite"
+  pagination_previous        : "Vorherige Seite"
+  pagination_next            : "N&auml;chste Seite"
+  breadcrumb_home_label      : "Startseite"
+  breadcrumb_separator       : "/"
+  toc_label                  : "Auf dieser Seite"
+  ext_link_label             : "Direkte Verbindung"
+  less_than                  : "weniger als"
+  minute_read                : ""
+  share_on_label             : "Teilen auf"
+  meta_label                 :
+  tags_label                 : "Tags:"
+  categories_label           : "Kategorien:"
+  date_label                 : "Ver&ouml;ffentlicht:"
+  comments_label             : "Kommentar hinterlassen"
+  comments_title             : "Kommentare"
+  more_label                 : "Mehr Erfahren"
+  related_label              : "K&ouml;nnten Ihnen auch gefallen"
+  follow_label               : "Folgen:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powered by"
+  website_label              : "Webseite"
+  email_label                : "E-mail"
+  recent_posts               : "K&uuml;rzlich gepostete Beitr&auml;ge"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Ihre Mailadresse wird nicht ver&auml;ffentlicht. Geforderte Felder sind markiert"
+  comment_form_comment_label : "Kommentar"
+  comment_form_md_info       : "Markdown ist unterst&uuml;tzt."
+  comment_form_name_label    : "Name"
+  comment_form_email_label   : "Mailadresse"
+  comment_form_website_label : "Webseite (optional)"
+  comment_btn_submit         : "Kommentar hinterlassen"
+  comment_btn_submitted      : "Hinterlassen"
+  comment_success_msg        : "Dake f&uuml;r Ihren Kommentar! Der wird nach &Uuml;berpr&uuml;fung auf der Webseite sichtbar."
+  comment_error_msg          : "Tut uns leid, etwas mit Ihrer Abgabe ist fehlgeschlagen. Bitte &uuml;berpr&uuml;fen Sie, dass alle geforderten Felder ausgef&uuml;llt sind, dann erneut versuchen."
+  loading_label              : "Laden..."
+de-DE:
+  <<: *DEFAULT_DE
+de-CH:
+  <<: *DEFAULT_DE
+de-AT:
+  <<: *DEFAULT_DE
+
 # Another locale
 # --------------
