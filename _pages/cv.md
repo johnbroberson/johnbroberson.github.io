@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in Public Policy, University of North Carolina at Chapel Hill, 2019
+* B.A. in *Public Policy*, University of North Carolina at Chapel Hill, 2019
   * With Honors and Highest Distinction
   * Phi Beta Kappa
   * Minors in *Philosophy, Politics, & Economics* and *Social & Economic Justice*
