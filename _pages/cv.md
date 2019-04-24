@@ -35,12 +35,12 @@ Research experience
   * **Program Used:** Stata (svy*, factor/rotate, margins, eststo/esttab, coefplot), R (ggplots, mapping)
   * **Methods:** exploratory factor analysis, logit & fractional logit regressions, margins
   
-* [Term Project, UNC-CH Graduate School of Information & Library Science 625](https://johnbroberson.github.io/inls625project/)
-  * *Using Machine Learning Techniques to Predict the Fates of Bills from the 112th - 115th Congresses*
+* Term Project, UNC-CH Graduate School of Information & Library Science 625
+  * [*Using Machine Learning Techniques to Predict the Fates of Bills from the 112th - 115th Congresses*](https://johnbroberson.github.io/inls625project/)
   * Spring 2019
   * **Data:** floor speech content, roll-call vote histories, district-level Census data from AFF
-  * **Programs/Packages Used:** Python (pandas, , R, KNIME
-  * **Methods:** web scraping, natural language text processing, API requests, multiple supervised machine learning model sets
+  * **Programs and Packages/Nodes Used:** Python, R, KNIME
+  * **Methods:** web scraping, text processing incl. regular expresssions, API requests, k-Means cluster analysis, RandomForest decision trees, Naïve Bayesian modeling, logit regression
   
 * Research Assistant, UNC-CH Department of Sociology
   * Lab/Project: "Protest in 45's First 100 Days"
