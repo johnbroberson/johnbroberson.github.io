@@ -15,7 +15,7 @@ Education
   * Buckley Public Service Scholar
 * (HS) North Carolina School of Science and Mathematics
 
-Work experience
+Work Experience
 ======
 * Finance and Compliance Associate, North Carolina Democratic Party
   * May 2017 - December 2018
@@ -24,7 +24,7 @@ Work experience
   * **Other Duties:** managed expenditures and receipts, regularly assisted in both federal and state campaign finance report reconciliation, wrote and consulted on external communications, planned party events, designed branded documents, event logos, social media graphics
   * **Management:** interviewed, taught, and supervised two interns each semester and summer
 
-Research experience
+Research Experience
 ======
 * Honors Thesis, UNC-CH Department of Public Policy
   * *News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election*
