@@ -2,13 +2,12 @@
 title: "Term Project: News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election"
 collection: publications
 permalink: "https://johnbroberson.github.io/inls625project
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this term project for UNC INLS 625 Predictive Analytics, I combined data from the ProPublica Congress API, govtrack.us, and DW_NOMINATE to predict what happened to bills from the 112th to 115th Congresses. I used Python, R, and KNIME to scrape, organize, and clean the data, then apply k-Means cluster analysis, RandomForest decision tree modeling, Naïve Bayesian modeling, and logit regression.'
 date: 2019-04-22
 venue: 'UNC-CH INLS 625 Predictive Analytics'
 paperurl: 'https://johnbroberson.github.io/inls625project'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this term project for UNC INLS 625 Predictive Analytics, I combined data from the ProPublica Congress API, govtrack.us, and DW_NOMINATE to predict what happened to bills from the 112th to 115th Congresses. I used Python, R, and KNIME to scrape, organize, and clean the data, then apply k-Means cluster analysis, RandomForest decision tree modeling, Naïve Bayesian modeling, and logit regression.
 
 [Read summary here](https://johnbroberson.github.io/inls625project) and [check out the project materials here](https://johnbroberson.github.io/inls625project)
 
