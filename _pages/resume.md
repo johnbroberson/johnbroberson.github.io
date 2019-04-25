@@ -3,7 +3,7 @@ title: "Resume"
 permalink: /resume/
 author_profile: true
 ---
-[Click here for a PDF version](/assets/John_Roberson_Data_Science_Resume.pdf)
+[Click here for a PDF version](/files/John_Roberson_Data_Science_Resume.pdf)
 
 
 Education
