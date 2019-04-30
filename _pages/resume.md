@@ -29,14 +29,14 @@ Work Experience
 Research Experience
 ======
 * Honors Thesis, UNC-CH Department of Public Policy
-  * *News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election*
+  * <i><a href="https://johnbroberson.github.io/files/2019_Roberson.pdf" target="_blank">News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election</a></i>
   * August 2018 - April 2019
   * **Data:** 2016 CCES Common Content (survey data, unweighted n = 64,600)
   * **Program Used:** Stata (svy*, factor/rotate, margins, eststo/esttab, coefplot), R (ggplots, mapping)
   * **Methods:** exploratory factor analysis, logit & fractional logit regressions, margins
   
 * Term Project, UNC-CH Graduate School of Information & Library Science 625
-  * [*Using Machine Learning Techniques to Predict the Fates of Bills from the 112th - 115th Congresses*](https://johnbroberson.github.io/inls625project/)
+  * <i><a href="https://johnbroberson.github.io/inls625project/" target="_blank">Using Machine Learning Techniques to Predict the Fates of Bills from the 112th - 115th Congresses</a></i>
   * Spring 2019
   * **Data:** floor speech content, roll-call vote histories, district-level Census data from AFF
   * **Programs and Packages/Nodes Used:** Python, R, KNIME
