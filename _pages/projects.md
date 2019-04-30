@@ -11,7 +11,7 @@ author_profile: true
 In this term project for UNC INLS 625 Predictive Analytics, I combined data from the ProPublica Congress API, govtrack.us, and DW_NOMINATE to predict what happened to bills from the 112th to 115th Congresses. I used Python, R, and KNIME to scrape, organize, and clean the data, then apply k-Means cluster analysis, RandomForest decision tree modeling, Naïve Bayesian modeling, and logit regression.
 
 
-## [*News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election*](/files/2019_Roberson.pdf)
+## [*News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election*](https://johnbroberson.github.io/files/2019_Roberson.pdf)
 *2018 - 2019*
 
 For my senior Honors thesis research at UNC Chapel Hill, I looked into the role that social media played in the 2016 election. I worked under Dr. Doug Lauen and Dr. Rebecca Kreitzer, both of the UNC Public Policy Department. I used Stata and R for analysis and figure-making. You can read the abstract below:
