@@ -4,6 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+<h2><i><a href="https://johnbroberson.github.io/inls625project/" target="_blank">Predicting the Fates of Bills from the 112th - 115th Congresses</a></i></h2>
 
 ## [*Predicting the Fates of Bills from the 112th - 115th Congresses*](https://johnbroberson.github.io/inls625project/)
 *Spring 2019*
