@@ -24,5 +24,4 @@ author_profile: true
 </tr>
 </table>
 
-\*Classes with two- as opposed to four-letter department codes were taken in Freiburg, Germany.
-†Indicates classes conducted in German.
+<font size="6">\*Classes with two- as opposed to four-letter department codes were taken in Freiburg, Germany.<br>†Indicates classes conducted in German.</font>
