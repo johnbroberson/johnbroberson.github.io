@@ -12,7 +12,7 @@ author_profile: true
 </tr>
 <tr>
   <td><table><tr><td>CALC 233:</td><td>Multivariable Calculus</td></tr></table><table><tr><td>ECON 310:</td><td>Applied Microeconomics</td></tr></table><table><tr><td>PLCY 460H:</td><td>Quantitative Analysis for Public Policy</td></tr></table></td>
-  <td>PLCY 581: Research Design<br>INLS 625: Information Analytics<br>PLCY 691H/692H: Honors Thesis in Public Policy</td>
+  <td><table><tr><td>PLCY 581:</td><td>Research Design</td></tr></table><table><tr><td>INLS 625:</td><td>Information Analytics</td></tr></table><table><tr><td>PLCY 691H/692H:</td><td>Honors Thesis in Public Policy</td></tr></table></td>
 </tr>  
 <tr>
   <th>Politics</th>
