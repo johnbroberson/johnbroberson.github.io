@@ -1,5 +1,5 @@
 ---
-permalink: /coursework2/
+permalink: /coursework/
 title: "Coursework"
 excerpt: "Relevant coursework"
 author_profile: true
