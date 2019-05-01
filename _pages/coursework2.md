@@ -19,8 +19,8 @@ author_profile: true
   <th>German</th>
 </tr>
 <tr>
-  <td>POLI 236: Politics of Eastern & Central Europe<br>IR 357*: Reshaping the International Order: Power, Conflict, and Change in the Black Sea Region<br>IR 370*: EU-US Relations<br>POLI 412H: US National Elections<br>PO 450*: EU Studies Integrative Seminar</td>
-  <td>GERM 101 - 302: Language, Literature, and Society, through "Advanced Intermediate"<br>POLI 257: Society and Culture of Postwar Germany<br>GR 353*: German Language in Context (highest level offered)<br>GERM 371: German Novella<br>PO 481*: The Power and Fragility of Human Rights in Modern Society</td>
+  <td><table><tr><td>POLI 236:</td><td>Politics of Eastern & Central Europe</td></tr></table><table><tr><td>IR 357*:</td><td>Reshaping the International Order: Power, Conflict, and Change in the Black Sea Region</td></tr></table><table><tr><td>IR 370*:</td><td>EU-US Relations</td></tr></table><table><tr><td>POLI 412H:</td><td>US National Elections</td></tr></table><table><tr><td>PO 450*:</td><td>EU Studies Integrative Seminar</td></tr></table></td>
+  <td><table><tr><td>GERM 101 - 302:</td><td>Language, Literature, and Society, through "Advanced Intermediate"</td></tr></table><table><tr><td>POLI 257:</td><td>Society and Culture of Postwar Germany</td></tr></table><table><tr><td>GR 353*:</td><td>German Language in Context (highest level offered)</td></tr></table><table><tr><td>GERM 371:</td><td>German Novella</td></tr></table><table><tr><td>PO 481*:</td><td>The Power and Fragility of Human Rights in Modern Society</td></tr></table></td>
 </tr>
 </table>
 
