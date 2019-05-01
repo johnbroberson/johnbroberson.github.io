@@ -9,7 +9,7 @@ table {
   font-size: 10;
    
   & + table {
-    margin-top: 1em;
+    margin-top: 0em;
   }
 }
 
@@ -27,6 +27,7 @@ th {
 td {
   padding: 0.5em;
   vertical-align: top;
+  horizontal-align: left;
 }
 
 tr, th {
