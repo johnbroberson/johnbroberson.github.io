@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-<img src="images/headshot_round.jpg" alt="Headshot" style="width:1000px;">
+<img src="images/headshot_round.jpg" alt="Headshot" style="width:500px;">
