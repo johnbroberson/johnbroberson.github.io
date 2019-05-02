@@ -70,5 +70,4 @@ Skills
 * Excel:
   * PivotTables
   * VLOOKUP & Index/Match
-  * PivotTables
   * Mail-merging
