@@ -26,4 +26,4 @@ author_profile: true
 
 <font size="3">* Classes with two- as opposed to four-letter department codes were taken in Freiburg, Germany.<br>† Indicates classes conducted in German.</font>
 
-<img src="images/grades_by_dept_treemap.png" alt="Treemap of Grades by Department">
+<img src="https://johnbroberson.github.io/images/grades_by_dept_treemap.png" alt="Treemap of Grades by Department">
