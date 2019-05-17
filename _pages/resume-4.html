@@ -10,6 +10,12 @@ author_profile: true
       .column {
         float:left;
       }
+      /* Clear floats after the columns */
+      .section:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
     </style>
   </head>
   <body>
