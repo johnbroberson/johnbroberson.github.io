@@ -29,7 +29,7 @@ Work Experience
 Research Experience
 ======
 * Honors Thesis, UNC-CH Department of Public Policy
-  * <i><a href="https://johnbroberson.github.io/files/2019_Roberson.pdf" target="_blank">News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election</a></i>
+  * <i><a href="https://cdr.lib.unc.edu/record/uuid:195fac49-d9c2-4f3b-9ecb-f9e4edf93be3" target="_blank">News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election</a></i>
   * August 2018 - April 2019
   * **Data:** 2016 CCES Common Content (survey data, unweighted n = 64,600)
   * **Program Used:** Stata (svy*, factor/rotate, margins, eststo/esttab, coefplot), R (ggplots, mapping)
