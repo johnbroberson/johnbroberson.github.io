@@ -11,7 +11,7 @@ author_profile: true
 In this term project for UNC INLS 625 Predictive Analytics, I combined data from the ProPublica Congress API, govtrack.us, and DW_NOMINATE to predict what happened to bills from the 112th to 115th Congresses. I used Python, R, and KNIME to scrape, organize, and clean the data, then apply k-Means cluster analysis, RandomForest decision tree modeling, Naïve Bayesian modeling, and logit regression.
 
 
-<h2><i><a href="https://johnbroberson.github.io/files/2019_Roberson.pdf" target="_blank">News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election</a></i></h2>
+<h2><i><a href="https://cdr.lib.unc.edu/record/uuid:195fac49-d9c2-4f3b-9ecb-f9e4edf93be3" target="_blank">News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election</a></i></h2>
 
 *2018 - 2019*
 
