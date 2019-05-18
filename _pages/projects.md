@@ -12,10 +12,10 @@ In this term project for UNC INLS 625 Predictive Analytics, I combined data from
 
 <table>
   <tr>
-    <td width="47.5%"><iframe src="https://www.youtube.com/watch?v=xVziyW_k3h4">
+    <td width="47.5%"><iframe src="https://www.youtube.com/embed?v=xVziyW_k3h4">
     </iframe></td>
     <td width="5%"></td>
-    <td width="47.5%"><iframe src="https://www.youtube.com/watch?v=m_L9s5j1pbY">
+    <td width="47.5%"><iframe src="https://www.youtube.com/embed?v=m_L9s5j1pbY">
     </iframe></td>
   </tr>
 </table>
