@@ -13,6 +13,16 @@ In this term project for UNC INLS 625 Predictive Analytics, I combined data from
 
 <h2><i><a href="https://cdr.lib.unc.edu/record/uuid:195fac49-d9c2-4f3b-9ecb-f9e4edf93be3" target="_blank">News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election</a></i></h2>
 
+<table>
+  <tr>
+    <td width="47.5%"><iframe src="https://www.youtube.com/watch?v=xVziyW_k3h4">
+    </iframe></td>
+    <td width="5%"></td>
+    <td width="47.5%"><iframe src="https://www.youtube.com/watch?v=m_L9s5j1pbY">
+    </iframe></td>
+  </tr>
+</table>
+
 *2018 - 2019*
 
 For my senior Honors thesis research at UNC Chapel Hill, I looked into the role that social media played in the 2016 election. I worked under Dr. Doug Lauen and Dr. Rebecca Kreitzer, both of the UNC Public Policy Department. I used Stata and R for analysis and figure-making. You can read the abstract below:
