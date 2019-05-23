@@ -266,7 +266,7 @@ it: &DEFAULT_IT
 it-IT:
   <<: *DEFAULT_IT
 
-# English (default)
+# German
 # -----------------
 de: &DEFAULT_DE
   page                       : "Seite"
