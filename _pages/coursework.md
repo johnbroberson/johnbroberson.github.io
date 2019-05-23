@@ -1,6 +1,6 @@
 ---
 permalink: /coursework/
-title: "Coursework"
+title: "Highlighted Coursework"
 excerpt: "Relevant coursework"
 author_profile: true
 ---
