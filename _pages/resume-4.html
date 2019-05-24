@@ -7,18 +7,21 @@ author_profile: true
 <html>
   <head>
     <style>
-      .column {
+      div.column {
         float:left;
-      }
-      .band {
-        clear:both;
+      } 
+      td.band {
+        padding:0;
       }
     </style>
   </head>
   <body>
+    
     <a href="https://johnbroberson.github.io/files/John_Roberson_Data_Science_Resume.pdf" target="_blank" style="padding:0 0 40px;">Click here for a PDF version</a>
+    
     <table>
-      <tr><td style="padding:0;">
+      <!--EDUCATION-->
+      <tr><td class="band">
         <h1>Education</h1>
         B.A. in <i>Public Policy</i>, University of North Carolina at Chapel Hill, 2019
         <div class="column" style="width:70%;">
@@ -39,9 +42,9 @@ author_profile: true
           <img src="https://johnbroberson.github.io/images/Carolina-Center-for-Public-Service-Logo.jpg" alt="CCPS Logo">
         </div>
       </td></tr>
-      <tr><td style="padding:0;">
-        <div class="band">
-          <div class="band">
+      <!--WORK-->
+      <tr><td class="band">
+          <div style="clear:both;">
             <div class="column" style="width:70%;">
               <h1>Work Experience</h1>
               Finance and Compliance Associate, NC Democratic Party
@@ -57,103 +60,41 @@ author_profile: true
             <li><b>Other Duties:</b> managed expenditures and receipts, regularly assisted in both federal and state campaign finance report reconciliation, wrote and consulted on external communications, planned party events, designed branded documents, event logos, social media graphics</li>
             <li><b>Management:</b> interviewed, taught, and supervised two interns each semester and summer</li>
           </ul>
-        </div>          
       </td></tr>
-    </table>
-  <!--
-    <div>
-    </div>
-    <div style="padding:0 0 40px;">
-    </div>
-    <div class="band">
-      <h1>Education</h1>
-      B.A. in <i>Public Policy</i>, University of North Carolina at Chapel Hill, 2019
-      <div class="column" style="width:70%;">
+      <!--WORK-->
+      <tr><td class="band">
+        <h1>Research Experience</h1>
+        Honors Thesis, UNC-CH Department of Public Policy
         <ul>
-          <li>With Honors and Highest Distinction</li>
-          <li>Phi Beta Kappa</li>
-          <li>Minors in <i>Philosophy, Politics, & Economics</i> and <i>Social & Economic Justice</i></li>
-          <li>MacDonald Community Service Fellow</li>
-          <li>Buckley Public Service Scholar</li>
+        <i><a href="https://cdr.lib.unc.edu/record/uuid:195fac49-d9c2-4f3b-9ecb-f9e4edf93be3" target="_blank">News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election</a></i>
+          <li>August 2018 - April 2019</li>
+          <li><b>Data:</b> 2016 CCES Common Content (survey data, unweighted n = 64,600)</li>
+          <li><b>Program Used:</b> Stata (svy*, factor/rotate, margins, eststo/esttab, coefplot), R (ggplots, mapping)</li>
+          <li><b>Methods:</b> exploratory factor analysis, logit & fractional logit regressions, margins</li>
         </ul>
-        (HS) North Carolina School of Science and Mathematics
-      </div>
-      <div class="column" style="width:30%;">
-        <img src="https://johnbroberson.github.io/images/PublicPolicy_logo_blue.png" alt="UNC Public Policy Logo Blue" style="padding:21px 0 14px;">
-        <br>
-        <img src="https://johnbroberson.github.io/images/pbkLogo_V_RGB.png" alt="Phi Beta Kappa Logo" style="padding-bottom:6px;"> 
-        <br>
-        <img src="https://johnbroberson.github.io/images/Carolina-Center-for-Public-Service-Logo.jpg" alt="CCPS Logo">
-      </div>
-    </div>
-    <div>
-      <p style="opacity:0;">b</p>
-      <br>
-    </div>
-    <div class="band">
-      <div class="band">
-        <div class="column" style="width:70%;">
-          <h1>Work Experience</h1>
-          Finance and Compliance Associate, NC Democratic Party
-        </div>
-        <div class="column" style="width:30%;">
-          <img src="https://johnbroberson.github.io/images/NC_Democratic_Party_logo.png" alt="NCDP Logo">
-        </div>
-      </div>
-      <ul>
-        <li>May 2017 - December 2018</li>
-        <li>First-ever salaried employee while still an undergraduate (Summer '18)</li>
-        <li><b>Data and Research:</b> built targeted fundraising lists using vendor and NCDP scores; used the voter file (Votebuilder), NGP, BSD, and ActBlue for record-keeping; used Excel and WhoopDeDupe (VF-matching program) to manipulate data between databases and online sources</li>
-        <li><b>Other Duties:</b> managed expenditures and receipts, regularly assisted in both federal and state campaign finance report reconciliation, wrote and consulted on external communications, planned party events, designed branded documents, event logos, social media graphics</li>
-        <li><b>Management:</b> interviewed, taught, and supervised two interns each semester and summer</li>
-      </ul>
-    </div>
-    k
-  -->
-  </body>
-</html>
+
+        Term Project, UNC-CH Graduate School of Information & Library Science 625
+        <ul>
+        <i><a href="https://johnbroberson.github.io/inls625project/" target="_blank">Using Machine Learning Techniques to Predict the Fates of Bills from the 112th - 115th Congresses</a></i>
+          <li>Spring 2019</li>
+          <li><b>Data:</b> floor speech content, roll-call vote histories, district-level Census data from AFF</li>
+          <li><b>Programs and Packages/Nodes Used:</b> Python, R, KNIME</li>
+          <li><b>Methods:</b> web scraping, text processing incl. regular expresssions, API requests, k-Means cluster analysis, RandomForest decision trees, Naïve Bayesian modeling, logit regression</li>
+        </ul>
+
+        Research Assistant, UNC-CH Department of Sociology
+        <ul>
+          <li>Lab/Project: "Protest in 45's First 100 Days"</li>
+          <li>Spring 2017</li>
+          <li>Duties: news story research, sorting, and coding into database</li>
+        </ul>        
+      </td></tr>        
+    </table>
+   </body>
+</html>   
+
 
 <!--
-<html>
-<head>
-  <style>
-    .ressection {
-      padding: 10px 0 0;
-    }    
-    .sub_grey {
-      background-color:LightGray;
-    }
-  </style>
-</head>
-
-  <div class="ressection">
-    <h1>Research Experience</h1>
-    Honors Thesis, UNC-CH Department of Public Policy
-    <ul>
-    <i><a href="https://cdr.lib.unc.edu/record/uuid:195fac49-d9c2-4f3b-9ecb-f9e4edf93be3" target="_blank">News-Related Social Media Use, Political Knowledge, and Participation in the 2016 Election</a></i>
-      <li>August 2018 - April 2019</li>
-      <li><b>Data:</b> 2016 CCES Common Content (survey data, unweighted n = 64,600)</li>
-      <li><b>Program Used:</b> Stata (svy*, factor/rotate, margins, eststo/esttab, coefplot), R (ggplots, mapping)</li>
-      <li><b>Methods:</b> exploratory factor analysis, logit & fractional logit regressions, margins</li>
-    </ul>
-
-    Term Project, UNC-CH Graduate School of Information & Library Science 625
-    <ul>
-    <i><a href="https://johnbroberson.github.io/inls625project/" target="_blank">Using Machine Learning Techniques to Predict the Fates of Bills from the 112th - 115th Congresses</a></i>
-      <li>Spring 2019</li>
-      <li><b>Data:</b> floor speech content, roll-call vote histories, district-level Census data from AFF</li>
-      <li><b>Programs and Packages/Nodes Used:</b> Python, R, KNIME</li>
-      <li><b>Methods:</b> web scraping, text processing incl. regular expresssions, API requests, k-Means cluster analysis, RandomForest decision trees, Naïve Bayesian modeling, logit regression</li>
-    </ul>
-
-    Research Assistant, UNC-CH Department of Sociology
-    <ul>
-      <li>Lab/Project: "Protest in 45's First 100 Days"</li>
-      <li>Spring 2017</li>
-      <li>Duties: news story research, sorting, and coding into database</li>
-    </ul>
-  </div>
-
   <div class="ressection">
     <h1>Skills</h1>
     <h3><i>By Years of Experience</i><h3>
@@ -205,7 +146,4 @@ author_profile: true
       </tr>
     </table>
   </div>
-    
-</body>
-</html>
 -->
