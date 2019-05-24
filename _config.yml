@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : johnbroberson
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "John Brent Roberson"
   avatar           : "headshot_round.jpg"
-  bio              : "Recent college grad (UNC Chapel Hill '19), working in Democratic campaign finance and studying elections in my spare time"
+  bio              : "Recent college grad, working in Democratic finance/compliance and studying elections in my spare time"
   location         : "Raleigh, NC"
   employer         :
   pubmed           : 
