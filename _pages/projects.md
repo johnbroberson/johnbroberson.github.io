@@ -12,7 +12,7 @@ This program's primary function is to perform basic 'scrubbing' of contribution 
 
 + Graphic interface through tkinter
 + Data processing through pandas and re
-+ Packaging through py2exe
++ Packaging through pyinstaller
 
 Users can set and save default preferences across sessions, as well as create and edit a table of loadable values to write to the final, scrubbed datafile. 
 
