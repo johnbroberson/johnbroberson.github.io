@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "BWRDC"
-permalink: /bwdrc/
+permalink: /bwrdc/
 author_profile: true
 ---
 
