@@ -4,11 +4,11 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-<h2><i><a href="https://johnbroberson.github.io/scrub/" target="_blank">Scrub</a></i></h2>
+<h2><i><a href="https://scrubapp.org" target="_blank">Scrub</a></i></h2>
 
 *Desktop Application*
 
-This program's primary function is to perform basic 'scrubbing' of contribution data, a routine yet time-consuming process in campaign finance and compliance workflows. Learn more <a href="https://johnbroberson.github.io/scrub/" target="_blank">here</a>.
+This program's primary function is to perform basic 'scrubbing' of contribution data, a routine yet time-consuming process in campaign finance and compliance workflows. Learn more <a href="https://scrubapp.org" target="_blank">here</a>.
 
 <h2><i><a href="https://johnbroberson.github.io/bwrdc/" target="_blank">BW Raleigh Daily Clippings</a></i></h2>
 
